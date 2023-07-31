@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{87E57916-3665-4AE6-80CD-FFBAD283B2CD}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaymentAPI/Controllers/PaymentDetailController.cs">
+    <Files>
+      <File FileName="PaymentAPI/Models/PaymentDetail.cs" Line="11" Column="32" />
+      <File FileName="PaymentAPI/Program.cs" Line="25" Column="2" />
+      <File FileName="PaymentAPI/Models/PaymentDetailContext.cs" Line="13" Column="51" />
+      <File FileName="PaymentAPI/appsettings.json" Line="11" Column="4" />
+      <File FileName="PaymentAPI/Controllers/PaymentDetailController.cs" Line="98" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaymentAPI" expanded="True">
+            <Node name="PaymentAPI" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PaymentAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
